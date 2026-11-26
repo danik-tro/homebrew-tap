@@ -1,7 +1,6 @@
 class Rrover < Formula
   desc "Terminal UI client for Redis"
   homepage "https://github.com/danik-tro/redis-rover"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
